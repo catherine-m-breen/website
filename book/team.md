@@ -99,5 +99,12 @@ The people on this page have helped organize the hackweek. You'll find a few spe
 *Ask me about:* Thermal IR, Python
 ---
 
+**Catherine Breen**
+^^^
+<img src="https://user-images.githubusercontent.com/56138926/117336784-6e3ce280-ae51-11eb-838a-79c07344a308.JPG"
++++
+*Affiliations:* UW
+*Ask me about:* Python
+---
 
 ````
